@@ -1,2 +1,2 @@
-# Team-Raptors-Tasks
+# Workshop
 These are solutions for Task-1.
